@@ -1,8 +1,8 @@
 # Demonstration of building Steiner tree
 
-Click on the region to build dot (0 - 10 dots required).
-Press button to build tree.
-Refresh page to build another example.
+Click on the region to build dot (0 - 10 dots required).  
+Press button to build tree.  
+Refresh page to build another example.  
 
 The Steiner tree problem is superficially similar to the minimum 
 spanning tree problem: given a set V of points (vertices), interconnect 
